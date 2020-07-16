@@ -26,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -82,14 +82,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1024" y="555" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594902579567">
+    <state x="1024" y="555" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594907050452">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1024" y="555" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594902579567" />
-    <state x="1071" y="543" key="SettingsEditor" timestamp="1594902670845">
+    <state x="1024" y="555" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594907050452" />
+    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1594905753869">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1071" y="543" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594902670845" />
+    <state width="439" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1594905753869" />
+    <state width="2539" height="290" key="GridCell.Tab.0.bottom" timestamp="1594915266645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="290" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594915266645" />
+    <state width="2539" height="290" key="GridCell.Tab.0.center" timestamp="1594915266645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="290" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594915266645" />
+    <state width="2539" height="290" key="GridCell.Tab.0.left" timestamp="1594915266645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="290" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594915266645" />
+    <state width="2539" height="290" key="GridCell.Tab.0.right" timestamp="1594915266645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="290" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594915266645" />
+    <state width="2539" height="290" key="GridCell.Tab.1.bottom" timestamp="1594915266646">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="290" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594915266646" />
+    <state width="2539" height="290" key="GridCell.Tab.1.center" timestamp="1594915266646">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="290" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594915266646" />
+    <state width="2539" height="290" key="GridCell.Tab.1.left" timestamp="1594915266646">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="290" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594915266646" />
+    <state width="2539" height="290" key="GridCell.Tab.1.right" timestamp="1594915266646">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="290" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594915266646" />
+    <state x="1071" y="543" key="SettingsEditor" timestamp="1594906412148">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1071" y="543" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594906412148" />
     <state x="876" y="636" key="com.intellij.ide.util.TipDialog" timestamp="1594902479016">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
